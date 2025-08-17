@@ -1,8 +1,4 @@
 {
-  "name": "project-echo-11ty",
-  "version": "1.0.1",
-  "private": true,
-  "description": "Project ECHO — Swiss-Modern brochureware (Eleventy)",
   "scripts": {
     "build": "npx @11ty/eleventy",
     "dev": "npx @11ty/eleventy --serve --quiet"
