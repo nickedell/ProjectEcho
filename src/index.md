@@ -14,7 +14,7 @@ permalink: /index.html
 <div class="col span-7">
   <div class="kicker">What it is</div>
   <p>Project ECHO is studying how variations in chatbot tone and phrasing may shape user trust, compliance, experience and decision-making. Our intent is to isolate conversational style from content and trace its effects.</p>
-  <p>Our focus extends beyond user experience to how subtle cues in conversational AI might activate parasympathetic emotional responses—the calm, trust-building side of the nervous system—shaping how people process choices. We are exploring the links between tone, behaviour and brain chemistry.</p>
+  <p>Our hypothesis extends beyond user experience: subtle cues in conversational AI can activate parasympathetic emotional responses—the calm, trust-building side of the nervous system—shaping how people process choices. We are exploring these links between tone, behaviour, and underlying brain chemistry.</p>
 </div>
 
 <div class="col span-5">
