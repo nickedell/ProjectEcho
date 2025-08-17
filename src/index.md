@@ -1,58 +1,26 @@
 ---
 layout: base.njk
-title: Project ECHO
-description: Project ECHO is a disciplined inquiry into how conversational AI tone influences behaviour.
-permalink: /index.html
+title: "Project ECHO"
 ---
 
-<div class="col span-12">
-  <h1>Project ECHO</h1>
-  <p class="lede">An experimental research project into how conversational AI tone influences behaviour—designed for academic and industry collaboration.</p>
-  <hr class="rule">
-</div>
+# Project ECHO  
+An experimental research project into how conversational AI tone influences behaviour—designed for academic and industry collaboration.
 
-<div class="col span-7">
-  <div class="kicker">What it is</div>
-  <p>Project ECHO is studying how variations in chatbot tone and phrasing may shape user trust, compliance, experience and decision-making. Our intent is to isolate conversational style from content and trace its effects.</p>
-  <p>Our focus extends beyond user experience to how subtle cues in conversational AI might activate parasympathetic emotional responses—the calm, trust-building side of the nervous system—shaping how people process choices. We are exploring the links between tone, behaviour and brain chemistry.</p>
-</div>
+## What it is  
+Project ECHO is studying how variations in chatbot **style and phrasing** may shape user trust, compliance, experience and decision-making. Our intent is to isolate conversational style from content and trace its effects.  
 
-<div class="col span-5">
-  <div class="callout">
-    <div class="kicker">Quick facts</div>
-    <ul class="list-plain">
-      <li>Focus: tone-of-voice in LLM chat UX</li>
-      <li>Design: controlled style variants</li>
-      <li>Measures: trust, task outcomes, language mirroring</li>
-      <li>Outputs: open methods; selective data sharing</li>
-    </ul>
-    <p><a class="button" href="/participate/">Participate</a></p>
-  </div>
-</div>
+Our focus extends beyond user experience to how subtle cues in conversational AI might activate **parasympathetic emotional responses**—the calm, trust-building side of the nervous system—shaping how people process choices. We are exploring the links between conversational style, behaviour and implied changes in brain chemistry.
 
-<div class="col span-12"><hr class="rule"></div>
+Even small stylistic shifts — such as **apologies, hedging (cautious language like “might” or “seems”), affirmation, or assertiveness** — can alter how people respond.  
 
-<div class="col span-12">
-  <div class="kicker">Why it matters</div>
-  <p>Conversational AIs increasingly mediate decisions in education, finance, healthcare, and public services. Even small stylistic shifts—apologies, hedging, or assertiveness—may trigger neurochemical responses (oxytocin, dopamine, serotonin) that alter perceptions of credibility, fairness, and safety. Understanding this helps ensure these systems are designed transparently and responsibly.</p>
-</div>
+---
 
-<div class="col span-12"><hr class="rule"></div>
+## Why now  
+The pace of AI-driven change continues to accelerate—seemingly exponentially—and we are not aware of anyone else approaching the issue in this way.  
 
-<div class="col span-12">
-  <div class="kicker">Our philosophy</div>
-  <p>Project ECHO is grounded in ten guiding design principles:</p>
-  <ul>
-    <li>Isolation of style from content</li>
-    <li>Pre-registered measures</li>
-    <li>Respect for participants</li>
-    <li>Generalisable patterns over quirks</li>
-    <li>Privacy by design</li>
-    <li>User-centric methods</li>
-    <li>Transparent data practices</li>
-    <li>Ethics first</li>
-    <li>Cross-disciplinary review</li>
-    <li>Iterative refinement</li>
-  </ul>
-  <p>These principles ensure that our work is rigorous, transparent, and ethically grounded.</p>
-</div>
+---
+
+## Call for collaboration  
+We are seeking academic, industry, and independent collaborators **now**.  
+
+Our first **public beta** will launch **01 September 2025**.  
