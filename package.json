@@ -2,11 +2,10 @@
   "name": "project-echo-11ty",
   "version": "1.0.1",
   "private": true,
-  "description": "Project ECHO \u2014 Swiss-Modern brochureware (Eleventy)",
+  "description": "Project ECHO — Swiss-Modern brochureware (Eleventy)",
   "scripts": {
-    "prebuild": "node -v && npm -v && npx eleventy --version || npx @11ty/eleventy --version || echo 'Eleventy version check complete'",
-    "build": "eleventy",
-    "dev": "eleventy --serve --quiet"
+    "build": "npx @11ty/eleventy",
+    "dev": "npx @11ty/eleventy --serve --quiet"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2"
