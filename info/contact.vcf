@@ -1,0 +1,60 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Prof. Paul Chadwick
+EMAIL;TYPE=INTERNET:paul.chadwick@ucl.ac.uk
+ORG:UCL
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Dr. Gavin Doherty
+EMAIL;TYPE=INTERNET:gavin.doherty@kcl.ac.uk
+ORG:King’s College London
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Prof. Yvonne Rogers
+EMAIL;TYPE=INTERNET:y.rogers@ucl.ac.uk
+ORG:UCL Interaction Centre
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Dr. Kate Devlin
+EMAIL;TYPE=INTERNET:kate.devlin@kcl.ac.uk
+ORG:King’s College London
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Dr. Chris Watkins
+EMAIL;TYPE=INTERNET:c.watkins@gold.ac.uk
+ORG:Goldsmiths, University of London
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Dr. John Torous
+EMAIL;TYPE=INTERNET:jtorous@bidmc.harvard.edu
+ORG:Harvard Medical School / BIDMC
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Dr. Charlotte Blease
+EMAIL;TYPE=INTERNET:charlotte.blease@uu.se
+ORG:Uppsala University & Harvard/BIDMC
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Dr. Adam Miner
+EMAIL;TYPE=INTERNET:aminer@stanford.edu
+ORG:Stanford University
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Prof. Munmun De Choudhury
+EMAIL;TYPE=INTERNET:mchoudhu@cc.gatech.edu
+ORG:Georgia Tech
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Dr. Nick Obradovich
+EMAIL;TYPE=INTERNET:nobradovich@laureateinstitute.org
+ORG:Laureate Institute for Brain Research
+END:VCARD

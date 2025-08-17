@@ -1,0 +1,13 @@
+{
+  "name": "project-echo-11ty",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal Swiss-Modern brochureware for Project ECHO (Eleventy)",
+  "scripts": {
+    "dev": "eleventy --serve --quiet",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
