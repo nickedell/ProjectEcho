@@ -19,7 +19,7 @@ permalink: /why-it-matters/index.html
 <div class="col span-12">
   <div class="kicker">Why our approach is different</div>
   <p>Unlike weighty academic papers or the closed-door knowledge inside the firewalls of big tech, Project ECHO brings an open, user-centred lens. We combine the flexibility of a startup with decades of experience design and deep industry expertise.  </p>
-  <p>Our commitment is to be transparent about our results, share our methodologies andactively invite scrutiny and collaboration.</p>
+  <p>Our commitment is to be transparent about our results, share our methodologies and actively invite scrutiny and collaboration.</p>
 </div>
 
 <div class="col span-12"><hr class="rule"></div>
