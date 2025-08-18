@@ -26,9 +26,9 @@ permalink: /participate/index.html
   <div class="callout">
     <div class="kicker">Practical notes</div>
     <ul class="list-plain">
-      <li>IRB/ethics ready: templates available</li>
-      <li>Data sharing: de-identified, purpose-bound</li>
-      <li>Attribution: co-authorship for significant contributions</li>
+      <li><strong>IRB/ethics ready</strong><br  />Templates available</li>
+      <li><strong>Data sharing</strong><br  />De-identified, purpose-bound</li>
+      <li><strong>Attribution</strong><br  />Co-authorship for significant contributions</li>
     </ul>
   </div>
 </div>
