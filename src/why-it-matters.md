@@ -11,7 +11,7 @@ permalink: /why-it-matters/index.html
 </div>
 
 <div class="col span-12">
-  <p>Even small shifts in <strong>conversational style</strong>—such as <strong>apologies</strong>, <strong>hedging</strong> (cautious language like “might” or “seems”), <strong>assertiveness</strong>, <strong>affirmation</strong>, or <strong>encouragement</strong>—can influence trust, authority andfairness. These effects show up in behaviour: whether people comply, challenge, or mirror the AI. From such shifts we can infer the underlying neurochemical responses at play—<em>without</em> measuring brain chemistry directly.</p>
+  <p>Even small shifts in <strong>conversational style</strong>—such as <strong>apologies</strong>, <strong>hedging</strong> (cautious language such as “might” or “seems”), <strong>assertiveness</strong>, <strong>affirmation</strong> or <strong>encouragement</strong>—can influence trust, authority and the perception of fairness. These effects are reflected in people's behaviour: whether they comply, challenge or mirror the AI. From such shifts we can infer the underlying neurochemical responses at play—<em>without</em> measuring brain chemistry directly.</p>
 </div>
 
 <div class="col span-12"><hr class="rule"></div>
