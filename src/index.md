@@ -6,7 +6,7 @@ permalink: /index.html
 ---
 
 <div class="col span-12">
-  <h1>Project ECHO</h1>
+  <h1>Project ECHO.</h1>
   <p class="lede">An experimental research project into how conversational AI style influences behaviour — designed for academic and industry collaboration.</p>
   <hr class="rule">
 </div>
