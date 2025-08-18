@@ -10,14 +10,14 @@ permalink: /index.html
   <p class="lede">An experimental research project into how conversational AI style influences behaviour — designed for academic and industry collaboration.</p>
   <hr class="rule">
 </div>
-<div class="col span-9">
+<div class="col span-7">
   <div class="kicker">What it is</div>
   <p>Project ECHO is studying how variations in chatbot style and phrasing may shape user trust, compliance, experience and decision-making. Our intent is to isolate conversational style from content and trace its effects.
   </p><p>
   Our focus extends beyond user experience to how subtle cues in conversational AI might activate parasympathetic emotional responses — the calm, trust-building side of the nervous system — shaping how people process choices. We are exploring the links between style, behaviour and implied brain chemistry.
   </p>
 </div>
-<div class="col span-3">
+<div class="col span-5">
   <div class="callout">
     <div class="kicker">Quick facts</div>
     <ul class="list-plain">
@@ -29,13 +29,13 @@ permalink: /index.html
     <p><a class="button" href="/participate/">Participate</a></p>
   </div>
 </div>
-<div class="col span-9"><hr class="rule"></div>
-<div class="col span-9">
+<div class="col span-7"><hr class="rule"></div>
+<div class="col span-7">
   <div class="kicker"> Road ahead</div>
   <p>Our roadmap is not yet fixed. Possible outcomes include the release of design principles and frameworks, research collaborations, open source datasets and other outputs shaped by what we learn — and by who joins us.</p>
 </div>
-<div class="col span-9"><hr class="rule"></div>
-<div class="col span-9">
+<div class="col span-7"><hr class="rule"></div>
+<div class="col span-7">
   <div class="kicker">Get involved</div>
   <ul>
   <li><strong>Call for support & collaborations:</strong> <a href="/participate/">Open now</a></li>
