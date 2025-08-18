@@ -194,7 +194,7 @@ p {
 .button {
 	display: inline-block;
 	border: 1px solid #111;
-	padding: 10px 14px;
+	padding: 20px 14px;
 	text-decoration: none;
 	font-weight: 600
 }
