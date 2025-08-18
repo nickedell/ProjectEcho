@@ -22,8 +22,7 @@ permalink: /why-it-matters/index.html
 
 <div class="col span-12">
   <div class="kicker">Why now</div>
-  <p>The rate of AI-driven change continues to accelerate — seemingly exponentially — and we are not aware of anyone else studying these tonal and behavioural effects in quite this way.</p>
-</div>
+  <p>As AI-driven change accelerates, academic studies have begun documenting risks like “AI psychosis,” yet the behavioural effects of conversational style remain largely underexplored. Project ECHO is distinctive in bringing design, behavioural science, and openness together to study these tonal dynamics. </div>
 <div class="col span-12"><hr class="rule"></div>
 <div class="col span-12">
   <div class="kicker">What’s next</div>
