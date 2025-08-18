@@ -6,7 +6,7 @@ permalink: /why-it-matters/index.html
 
 <div class="col span-12">
   <h1>Why It Matters.</h1>
-  <p class="lede">Conversational AIs increasingly mediate decisions in education, finance, healthcare andpublic services. Even small stylistic shifts — apologies, hedging, assertiveness, affirmation, or encouragement — may trigger responses that alter perceptions of credibility, fairness andsafety. Understanding this helps ensure these systems are designed transparently and responsibly.</p>
+  <p class="lede">Conversational AIs increasingly mediate decisions in education, finance, healthcare and public services. Even small stylistic shifts — apologies, hedging, assertiveness, affirmation, or encouragement — may trigger responses that alter perceptions of credibility, fairness andsafety. Understanding this helps ensure these systems are designed transparently and responsibly.</p>
   <hr class="rule">
 </div>
 
