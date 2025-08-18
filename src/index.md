@@ -10,7 +10,7 @@ permalink: /index.html
   <p class="lede">An experimental research project into how conversational AI style influences behaviour — designed for academic and industry collaboration.</p>
   <hr class="rule">
 </div>
-<div class="col span-7">
+<div class="col span-9">
   <div class="kicker">What it is</div>
   <p>Project ECHO is studying how variations in chatbot style and phrasing may shape user trust, compliance, experience anddecision-making. Our intent is to isolate conversational style from content and trace its effects.
   </p><p>
@@ -21,10 +21,10 @@ permalink: /index.html
   <div class="callout">
     <div class="kicker">Quick facts</div>
     <ul class="list-plain">
-      <li>Focus<br  />tone-of-voice in LLM chat UX</li>
-      <li>Design<br  />controlled style variants</li>
-      <li>Measures<br  />trust, task outcomes, language mirroring</li>
-      <li>Outputs<br  />open methods; selective data sharing</li>
+      <li><strong>Focus</strong><br  />tone-of-voice in LLM chat UX</li>
+      <li><strong>Design</strong><br  />controlled style variants</li>
+      <li><strong>Measures</strong><br  />trust, task outcomes, language mirroring</li>
+      <li><strong>Outputs</strong><br  />open methods; selective data sharing</li>
     </ul>
     <p><a class="button" href="/participate/">Participate</a></p>
   </div>
