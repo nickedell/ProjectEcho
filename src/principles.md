@@ -5,7 +5,7 @@ permalink: /principles/index.html
 ---
 
 <div class="col span-12">
-  <h1>Principles</h1>
+  <h1>Principles.</h1>
   <p class="lede">Project ECHO is guided by ten design principles. They are living anchors we’ll refine through collaboration and evidence.</p>
   <hr class="rule">
 </div>

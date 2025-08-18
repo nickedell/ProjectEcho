@@ -6,7 +6,7 @@ permalink: /participate/index.html
 ---
 
 <div class="col span-12">
-  <h1>Participate</h1>
+  <h1>Participate.</h1>
   <p class="lede">We welcome collaboration with academics, research labs andpractitioners in HCI, behavioural science, ethics andAI safety.</p>
   <hr class="rule">
 </div>

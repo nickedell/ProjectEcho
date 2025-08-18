@@ -8,7 +8,7 @@ permalink: /objectives/index.html
 ---
 
 <div class="col span-12">
-  <h1>Objectives</h1>
+  <h1>Objectives.</h1>
   <p class="lede">Define the behavioural impact of conversational tone in AI systems—without leaking task content or leading users.</p>
   <hr class="rule">
 </div>
