@@ -6,9 +6,8 @@ permalink: /why-it-matters/index.html
 
 <div class="col span-12">
   <h1>Why It Matters.</h1>
-  <p class="lede">Conversational AIs increasingly mediate decisions in enterprise, education and public services. <!--Even small stylistic shifts — apologies, hedging, assertiveness, affirmation, or encouragement — may trigger responses that alter perceptions of credibility, fairness and safety. Understanding this helps ensure these systems are designed transparently and responsibly. --></p>
-  <p>Even small shifts in <strong>conversational style</strong>—such as <strong>apologies</strong>, <strong>hedging</strong> (cautious language such as “might” or “seems”), <strong>assertiveness</strong>, <strong>affirmation</strong> or <strong>encouragement</strong>—can influence trust, authority and the perception of fairness. </p>
-  <p>These effects are reflected in people's behaviour: whether they comply, challenge or mirror the AI. From such shifts we can infer the underlying neurochemical responses at play—<em>without</em> measuring brain chemistry directly.</p>
+  <p class="lede">Conversational AIs increasingly mediate decisions in enterprises, education and public services. <!--Even small stylistic shifts — apologies, hedging, assertiveness, affirmation, or encouragement — may trigger responses that alter perceptions of credibility, fairness and safety. Understanding this helps ensure these systems are designed transparently and responsibly. --></p>
+  <p>Even small shifts in <strong>conversational style</strong>—such as <strong>apologies</strong>, <strong>hedging</strong> (cautious language such as “might” or “seems”), <strong>assertiveness</strong>, <strong>affirmation</strong> or <strong>encouragement</strong>—can influence trust, authority and the perception of fairness. These effects are reflected in people's behaviour: whether they comply, challenge or mirror the AI. From such shifts we can infer the underlying neurochemical responses at play—<em>without</em> measuring brain chemistry directly.</p>
 </div>
 
 <div class="col span-12"><hr class="rule"></div>
@@ -29,7 +28,7 @@ permalink: /why-it-matters/index.html
 <div class="col span-12">
   <div class="kicker">What’s next</div>
   <ul>
-   <li><strong>Call for support & collaborations:</strong> <a href="/participate/">Open now</a></li>
-   <li><strong>Public Beta 1:</strong> 01 September 2025</li>
+	<li><strong>Call for support & collaborations:</strong> open now</li>
+	<li><strong>Public Beta 1:</strong> 01 September 2025</li>
   </ul>
 </div>
