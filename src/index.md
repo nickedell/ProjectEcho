@@ -17,7 +17,7 @@ permalink: /index.html
   Our focus extends beyond user experience to how subtle cues in conversational AI might activate parasympathetic emotional responses — the calm, trust-building side of the nervous system — shaping how people process choices. We are exploring the links between style, behaviour andimplied brain chemistry.
   </p>
 </div>
-<div class="col span-5">
+<div class="col span-3">
   <div class="callout">
     <div class="kicker">Quick facts</div>
     <ul class="list-plain">
