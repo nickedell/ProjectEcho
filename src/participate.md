@@ -11,7 +11,7 @@ permalink: /participate/index.html
   <hr class="rule">
 </div>
 
-<div class="col span-7">
+<div class="col span-8">
   <div class="kicker">Ways to collaborate</div>
   <ul>
     <li>Method critique and study design review</li>
@@ -22,7 +22,7 @@ permalink: /participate/index.html
   <p>For a detailed brief (protocol, tasks, instruments), email <a href="mailto:projectecho25@icloud.com">projectecho25@icloud.com</a> with your affiliation and area of interest.</p>
 </div>
 
-<div class="col span-5">
+<div class="col span-4">
   <div class="callout">
     <div class="kicker">Practical notes</div>
     <ul class="list-plain">
