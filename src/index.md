@@ -7,16 +7,16 @@ permalink: /index.html
 
 <div class="col span-12">
   <h1>Project ECHO</h1>
-  <p class="lede">An experimental research project into how conversational AI tone influences behaviour—designed for academic and industry collaboration.</p>
+  <p class="lede">An experimental research project into how conversational AI style influences behaviour — designed for academic and industry collaboration.</p>
   <hr class="rule">
 </div>
-
 <div class="col span-7">
   <div class="kicker">What it is</div>
-  <p>Project ECHO is studying how variations in chatbot tone and phrasing may shape user trust, compliance, experience and decision-making. Our intent is to isolate conversational style from content and trace its effects.</p>
-  <p>Our hypothesis extends beyond user experience: subtle cues in conversational AI can activate parasympathetic emotional responses—the calm, trust-building side of the nervous system—shaping how people process choices. We are exploring these links between tone, behaviour, and underlying brain chemistry.</p>
+  <p>Project ECHO is studying how variations in chatbot style and phrasing may shape user trust, compliance, experience anddecision-making. Our intent is to isolate conversational style from content and trace its effects.
+  </p><p>
+  Our focus extends beyond user experience to how subtle cues in conversational AI might activate parasympathetic emotional responses — the calm, trust-building side of the nervous system — shaping how people process choices. We are exploring the links between style, behaviour andimplied brain chemistry.
+  </p>
 </div>
-
 <div class="col span-5">
   <div class="callout">
     <div class="kicker">Quick facts</div>
@@ -29,30 +29,16 @@ permalink: /index.html
     <p><a class="button" href="/participate/">Participate</a></p>
   </div>
 </div>
-
 <div class="col span-12"><hr class="rule"></div>
-
 <div class="col span-12">
-  <div class="kicker">Why it matters</div>
-  <p>Conversational AIs increasingly mediate decisions in education, finance, healthcare, and public services. Even small stylistic shifts—apologies, hedging, or assertiveness—may trigger neurochemical responses (oxytocin, dopamine, serotonin) that alter perceptions of credibility, fairness, and safety. Understanding this helps ensure these systems are designed transparently and responsibly.</p>
+  <div class="kicker"> Road ahead</div>
+  <p>Our roadmap is not yet fixed. Possible outcomes include design principles and frameworks, research collaborations, open-source datasets andother outputs shaped by what we learn — and by who joins us.</p>
 </div>
-
 <div class="col span-12"><hr class="rule"></div>
-
 <div class="col span-12">
-  <div class="kicker">Our philosophy</div>
-  <p>Project ECHO is grounded in ten guiding design principles:</p>
+  <div class="kicker">Get involved</div>
   <ul>
-    <li>Isolation of style from content</li>
-    <li>Pre-registered measures</li>
-    <li>Respect for participants</li>
-    <li>Generalisable patterns over quirks</li>
-    <li>Privacy by design</li>
-    <li>User-centric methods</li>
-    <li>Transparent data practices</li>
-    <li>Ethics first</li>
-    <li>Cross-disciplinary review</li>
-    <li>Iterative refinement</li>
+    <li>Call for support and collaborations — Now</li> 
+     <li>Public Beta 1 — 01 September 2025</li>
   </ul>
-  <p>These principles ensure that our work is rigorous, transparent, and ethically grounded.</p>
 </div>

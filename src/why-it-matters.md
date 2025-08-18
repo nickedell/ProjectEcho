@@ -6,30 +6,29 @@ permalink: /why-it-matters/index.html
 
 <div class="col span-12">
   <h1>Why It Matters</h1>
-  <p class="lede">Conversational AI is becoming the interface for work, learning, and daily life. What’s underexplored is how <em>style</em>—not just content—affects outcomes.</p>
+  <p class="lede">Conversational AIs increasingly mediate decisions in education, finance, healthcare andpublic services. Even small stylistic shifts — apologies, hedging, assertiveness, affirmation, or encouragement — may trigger responses that alter perceptions of credibility, fairness andsafety. Understanding this helps ensure these systems are designed transparently and responsibly.</p>
   <hr class="rule">
 </div>
 
 <div class="col span-12">
-  <p>Even small shifts in <strong>conversational style</strong>—such as <strong>apologies</strong>, <strong>hedging</strong> (cautious language like “might” or “seems”), <strong>assertiveness</strong>, <strong>affirmation</strong>, or <strong>encouragement</strong>—can influence trust, authority, and fairness. These effects show up in behaviour: whether people comply, challenge, or mirror the AI. From such shifts we can infer the underlying neurochemical responses at play—<em>without</em> measuring brain chemistry directly.</p>
+  <p>Even small shifts in <strong>conversational style</strong>—such as <strong>apologies</strong>, <strong>hedging</strong> (cautious language like “might” or “seems”), <strong>assertiveness</strong>, <strong>affirmation</strong>, or <strong>encouragement</strong>—can influence trust, authority andfairness. These effects show up in behaviour: whether people comply, challenge, or mirror the AI. From such shifts we can infer the underlying neurochemical responses at play—<em>without</em> measuring brain chemistry directly.</p>
 </div>
 
 <div class="col span-12"><hr class="rule"></div>
 
 <div class="col span-12">
   <div class="kicker">Why our approach is different</div>
-  <p>Much of what’s known is either locked inside dense academic papers or kept behind the firewalls of big tech. Project ECHO takes a different path: combining the flexibility of a startup, a user-centric mindset shaped by decades in experience design, and deep industry expertise. We work in the open—publishing methods, inviting scrutiny, and collaborating across disciplines.</p>
+  <p>Unlike weighty academic papers or the closed-door knowledge inside the firewalls of big tech, Project ECHO brings an open, user-centred lens. We combine the flexibility of a startup with decades of experience design and deep industry expertise.  </p>
+  <p>Our commitment is to be transparent about our results, share our methodologies andactively invite scrutiny and collaboration.</p>
 </div>
 
 <div class="col span-12"><hr class="rule"></div>
 
 <div class="col span-12">
   <div class="kicker">Why now</div>
-  <p>The rate of AI-driven change is accelerating—seemingly exponentially—and we’re not aware of anyone else looking at it quite this way. The stakes are high, and clarity is urgent.</p>
+  <p>The rate of AI-driven change continues to accelerate — seemingly exponentially — and we are not aware of anyone else studying these tonal and behavioural effects in quite this way.</p>
 </div>
-
 <div class="col span-12"><hr class="rule"></div>
-
 <div class="col span-12">
   <div class="kicker">What’s next</div>
   <ul>

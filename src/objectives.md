@@ -32,13 +32,13 @@ permalink: /objectives/index.html
     <li><strong>Privacy by Design:</strong> Collect minimal, de-identified data with strong safeguards.</li>
     <li><strong>User-Centric Design:</strong> Keep methods participant-friendly and considerate.</li>
     <li><strong>Transparent Data Practices:</strong> Share methods and instruments openly for replication.</li>
-    <li><strong>Ethics First:</strong> Prioritise safety, consent, and governance in all designs.</li>
-    <li><strong>Cross-Disciplinary Review:</strong> Invite input from behavioural science, HCI, and ethics experts.</li>
+    <li><strong>Ethics First:</strong> Prioritise safety, consent andgovernance in all designs.</li>
+    <li><strong>Cross-Disciplinary Review:</strong> Invite input from behavioural science, HCI andethics experts.</li>
     <li><strong>Iterative Refinement:</strong> Continuously improve protocols based on feedback and replication.</li>
   </ul>
 </div>
 
 <div class="col span-12">
   <div class="kicker">Measures & outputs</div>
-  <p>Core measures include task success, error rates, time-to-completion, user-reported confidence, and language mirroring indices. Outputs include a working paper, open-licensed instruments, and implementation guidelines for product teams.</p>
+  <p>Core measures include task success, error rates, time-to-completion, user-reported confidence andlanguage mirroring indices. Outputs include a working paper, open-licensed instruments andimplementation guidelines for product teams.</p>
 </div>
