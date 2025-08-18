@@ -147,6 +147,13 @@ img {
 	opacity: 1
 }
 
+/* Highlight current page in nav */
+.nav a.active {
+  font-weight: bold;
+  color: #000; /* adjust if you want a darker accent */
+}
+
+
 h1,
 h2,
 h3 {
