@@ -29,7 +29,7 @@ permalink: /why-it-matters/index.html
 <div class="col span-12">
   <div class="kicker">What’s next</div>
   <ul>
-	<li><strong>Call for support & collaborations:</strong> open now</li>
-	<li><strong>Public Beta 1:</strong> 01 September 2025</li>
+   <li><strong>Call for support & collaborations:</strong> <a href="/participate/">Open now</a></li>
+   <li><strong>Public Beta 1:</strong> 01 September 2025</li>
   </ul>
 </div>

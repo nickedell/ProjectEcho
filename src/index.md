@@ -38,7 +38,7 @@ permalink: /index.html
 <div class="col span-9">
   <div class="kicker">Get involved</div>
   <ul>
-    <li>Call for support and collaborations — <a href="/participate/">Now</a></li> 
-     <li>Public Beta 1 — 01 September 2025</li>
+  <li><strong>Call for support & collaborations:</strong> <a href="/participate/">Open now</a></li>
+  <li><strong>Public Beta 1:</strong> 01 September 2025</li>
   </ul>
 </div>
