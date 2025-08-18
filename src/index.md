@@ -29,8 +29,8 @@ permalink: /index.html
     <p><a class="button" href="/participate/">Participate</a></p>
   </div>
 </div>
-<div class="col span-12"><hr class="rule"></div>
-<div class="col span-12">
+<div class="col span-9"><hr class="rule"></div>
+<div class="col span-9">
   <div class="kicker"> Road ahead</div>
   <p>Our roadmap is not yet fixed. Possible outcomes include the release of open source design principles and frameworks, research collaborations, datasets and other outputs shaped by what we learn — and by who joins us.</p>
 </div>
