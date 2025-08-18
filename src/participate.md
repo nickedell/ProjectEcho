@@ -7,7 +7,7 @@ permalink: /participate/index.html
 
 <div class="col span-12">
   <h1>Participate.</h1>
-  <p class="lede">We welcome collaboration with academics, research labs andpractitioners in HCI, behavioural science, ethics andAI safety.</p>
+  <p class="lede">We welcome collaboration with academics, research labs and practitioners in HCI, behavioural science, ethics andAI safety.</p>
   <hr class="rule">
 </div>
 
@@ -19,7 +19,7 @@ permalink: /participate/index.html
     <li>Replication studies across domains</li>
     <li>Ethics and governance consultation</li>
   </ul>
-  <p>For a detailed brief (protocol, tasks, instruments), email <a href="mailto:echo@yourdomain.example">echo@yourdomain.example</a> with your affiliation and area of interest.</p>
+  <p>For a detailed brief (protocol, tasks, instruments), email <a href="mailto:projectecho@icloud.com">projectecho@icloud.com</a> with your affiliation and area of interest.</p>
 </div>
 
 <div class="col span-5">
