@@ -21,10 +21,10 @@ permalink: /index.html
   <div class="callout">
     <div class="kicker">Quick facts</div>
     <ul class="list-plain">
-      <li><strong>Focus</strong><br  />tone-of-voice in LLM chat UX</li>
-      <li><strong>Design</strong><br  />controlled style variants</li>
-      <li><strong>Measures</strong><br  />trust, task outcomes, language mirroring</li>
-      <li><strong>Outputs</strong><br  />open methods; selective data sharing</li>
+      <li><strong>Focus</strong><br  />Tone-of-voice in LLM chat UX</li>
+      <li><strong>Design</strong><br  />Controlled style variants</li>
+      <li><strong>Measures</strong><br  />Trust, task outcomes, language mirroring</li>
+      <li><strong>Outputs</strong><br  />Open methods; selective data sharing</li>
     </ul>
     <p><a class="button" href="/participate/">Participate</a></p>
   </div>
