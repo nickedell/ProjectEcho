@@ -19,7 +19,7 @@ permalink: /participate/index.html
     <li>Replication studies across domains</li>
     <li>Ethics and governance consultation</li>
   </ul>
-  <p>For a detailed brief (protocol, tasks, instruments), email <a href="mailto:projectecho@icloud.com">projectecho@icloud.com</a> with your affiliation and area of interest.</p>
+  <p>For a detailed brief (protocol, tasks, instruments), email <a href="mailto:projectecho25@icloud.com">projectecho25@icloud.com</a> with your affiliation and area of interest.</p>
 </div>
 
 <div class="col span-5">
