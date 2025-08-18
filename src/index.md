@@ -12,9 +12,9 @@ permalink: /index.html
 </div>
 <div class="col span-9">
   <div class="kicker">What it is</div>
-  <p>Project ECHO is studying how variations in chatbot style and phrasing may shape user trust, compliance, experience anddecision-making. Our intent is to isolate conversational style from content and trace its effects.
+  <p>Project ECHO is studying how variations in chatbot style and phrasing may shape user trust, compliance, experience and decision-making. Our intent is to isolate conversational style from content and trace its effects.
   </p><p>
-  Our focus extends beyond user experience to how subtle cues in conversational AI might activate parasympathetic emotional responses — the calm, trust-building side of the nervous system — shaping how people process choices. We are exploring the links between style, behaviour andimplied brain chemistry.
+  Our focus extends beyond user experience to how subtle cues in conversational AI might activate parasympathetic emotional responses — the calm, trust-building side of the nervous system — shaping how people process choices. We are exploring the links between style, behaviour and implied brain chemistry.
   </p>
 </div>
 <div class="col span-3">
@@ -32,13 +32,13 @@ permalink: /index.html
 <div class="col span-9"><hr class="rule"></div>
 <div class="col span-9">
   <div class="kicker"> Road ahead</div>
-  <p>Our roadmap is not yet fixed. Possible outcomes include the release of open source design principles and frameworks, research collaborations, datasets and other outputs shaped by what we learn — and by who joins us.</p>
+  <p>Our roadmap is not yet fixed. Possible outcomes include the release of design principles and frameworks, research collaborations, open source datasets and other outputs shaped by what we learn — and by who joins us.</p>
 </div>
 <div class="col span-9"><hr class="rule"></div>
 <div class="col span-9">
   <div class="kicker">Get involved</div>
   <ul>
-    <li>Call for support and collaborations — Now</li> 
+    <li>Call for support and collaborations — <a class="button" href="/participate/">Now</a></li> 
      <li>Public Beta 1 — 01 September 2025</li>
   </ul>
 </div>
