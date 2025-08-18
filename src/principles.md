@@ -15,7 +15,7 @@ permalink: /principles/index.html
 	<li><strong>Isolate Style, Not Content</strong> We control for what’s being said, so we can study the impact of how it’s said.</li>
 	<li><strong>Measure Behaviour First</strong> We don’t aim to measure brain chemistry directly. We look at observable behaviour, from which changes in underlying state can be inferred.</li>
 	<li><strong>Focus on Subtlety</strong> Small shifts—apologies, hedging, affirmation, encouragement, assertiveness—can meaningfully shape trust and compliance.</li>
-	<li><strong>Ground in Neuroscience</strong> We reference parasympathetic responses and social bonding mechanisms, while staying focused on practical, measurable outcomes.</li>
+	<li><strong>Ground in Neuroscience</strong> We reference parasympathetic responses and social bonding mechanisms, while staying focused on practical, measurable behavioural outcomes.</li>
 	<li><strong>Responsible by Design</strong> Balance curiosity with safety, consent, and governance at every step.</li>
   </ol>
 </div>
