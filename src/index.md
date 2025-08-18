@@ -32,7 +32,7 @@ permalink: /index.html
 <div class="col span-12"><hr class="rule"></div>
 <div class="col span-12">
   <div class="kicker"> Road ahead</div>
-  <p>Our roadmap is not yet fixed. Possible outcomes include the release of open source design principles and frameworks, research collaborations, open-source datasets andother outputs shaped by what we learn — and by who joins us.</p>
+  <p>Our roadmap is not yet fixed. Possible outcomes include the release of open source design principles and frameworks, research collaborations, datasets andother outputs shaped by what we learn — and by who joins us.</p>
 </div>
 <div class="col span-12"><hr class="rule"></div>
 <div class="col span-12">
